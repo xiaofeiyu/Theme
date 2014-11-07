@@ -6,7 +6,7 @@
 title: Ming's blog
 subtitle: R、数据分析、销售
 description: 明石生的博客
-author: 明石生
+author: Shisheng Ming
 email: 422763633@qq.com
 language: zh-CN
 
@@ -87,10 +87,12 @@ menu:
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
+
 deploy:
- type: github
- repository: https://github.com/xiaofeiyu/xiaofeiyu.github.io.git
- branch: master
+  type: github
+  repository: https://github.com/xiaofeiyu/xiaofeiyu.github.io.git
+  branch: master
+
 backup:
     type: git
     theme: light

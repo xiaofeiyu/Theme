@@ -22,7 +22,7 @@ twitter:
 
 addthis:
   enable: true
-  pubid:
+  pubid: 1982891
   facebook: true
   twitter: true
   google: true
@@ -30,5 +30,6 @@ addthis:
 
 fancybox: true
 
-google_analytics: UA-41207871-1
+google_analytics: UA-56526309-1
 rss:
+baidu_tongji: true
